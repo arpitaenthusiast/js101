@@ -21,3 +21,7 @@ var c = {
 }
 var p = null; // null means empty (Please note that null is not 0 or false, it is just empty)
 var q = undefined // not clear
+
+// Accessing Varriable Data
+
+console.log(!a);
